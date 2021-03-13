@@ -1,6 +1,8 @@
 # SIMPS
 
-A multi-agent pedestrian mobility simulatore.
+A multi-agent pedestrian mobility simulatore to generate contact traces.
+
+**Disclaimer**: old project, not supported anymore. 
 
 ![Alt text](SIMPS_image.jpeg?raw=true "User Interface")
 
